@@ -13,3 +13,10 @@ The data set is from kaggle, Landscape color and grayscale images. This dataset 
 
 # Model Architecture
 The model architecture consists of a convolutional neural network (CNN) with an encoder-decoder structure. The encoder consists of four convolutional layers with 128, 128, 256, and 512 filters, respectively, followed by batch normalization layers. The mid layer has 512 filters. The decoder consists of four transpose convolutional layers with 512, 256, 128, and 128 filters, respectively, followed by a final transpose convolutional layer with 3 filters (corresponding to the RGB channels). Skip connections are used between the encoder and decoder layers to improve the model's ability to capture details and prevent the vanishing gradient problem.
+
+# Model Results
+![Result 1](./results/result_1.png)
+![Result 2](./results/result_2.png)
+
+![Result 3](./results/result_3.png)
+![Result 4](./results/result_4.png)
