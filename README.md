@@ -17,6 +17,5 @@ The model architecture consists of a convolutional neural network (CNN) with an 
 # Model Results
 ![Result 1](./results/results_1.png)
 ![Result 2](./results/results_2.png)
-
 ![Result 3](./results/results_3.png)
 ![Result 4](./results/results_4.png)
