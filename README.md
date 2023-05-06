@@ -6,7 +6,7 @@ This repository contains the code for a deep learning model that takes a gray-sc
 - TensorFlow 2
 - Numpy
 - Matplotlib
-- Open-cv
+- opencv-python
 
 # Dataset
 The data set is from kaggle, Landscape color and grayscale images. This dataset consist of street, buildings, mountains, glaciers, trees etc and their corresponding grayscale images in two different folders. The main objective of creating this dataset is to create an autoencoder network that can colorize grayscale landscape images.
